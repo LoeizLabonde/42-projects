@@ -1,0 +1,8 @@
+# Ignore local secrets used for development
+secrets/
+
+# Node, Python, etc common ignores (optional)
+__pycache__/
+*.pyc
+.env
+test-tls.sh

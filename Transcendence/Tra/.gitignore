@@ -1,0 +1,17 @@
+.env
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+#chache de configuration typescript
+*.tsbuildinfo
+
+# IDE
+.vscode/
+
+# Prisma
+backend/prisma/generated/prisma
+
+backend/generated/prisma

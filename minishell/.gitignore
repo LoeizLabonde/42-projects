@@ -1,0 +1,6 @@
+build
+.cache_exists
+minishell
+.idea
+Libft/libft.a
+supress_readline.valgrind
